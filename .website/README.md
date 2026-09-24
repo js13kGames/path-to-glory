@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - shooter
+  - adventure
 post: https://remvst.medium.com/path-to-glory-post-mortem-js13k-2023-be74a5272621
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
